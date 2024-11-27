@@ -1,1 +1,197 @@
-
+﻿Field of Degree Grandparent,Field of Degree Parent,Field of Degree Child,Code
+Science and Engineering Group,"Computers, Mathematics and Statistics",Computer And Information Systems-General,2100
+,,Computer Science,2102
+,,Computer Systems Analysis,2103
+,,Information Sciences,2105
+,,Computer Administration Management And Security,2106
+,,Computer Networking And Telecommunications,2107
+,,Miscellaneous Computer Sciences,2199
+,,Mathematics,3700
+,,Applied Mathematics,3701
+,,Statistics,3702
+,,Decision Science,3705
+,,Miscellaneous Mathematics,3799
+,,Data Science and Data Analytics,4009
+,"Biological, Agricultural, and Environmental Sciences",General Agriculture,1100
+,,Agriculture Production And Management,1101
+,,Agricultural Economics,1102
+,,Animal Sciences,1103
+,,Food Science,1104
+,,Plant Science And Agronomy,1105
+,,Soil Science,1106
+,,Veterinary Medicine,1107
+,,Miscellaneous Agriculture,1199
+,,Environmental Science,1301
+,,Forestry,1302
+,,Natural Resources Management,1303
+,,Biology,3600
+,,Biochemical Sciences,3601
+,,Botany,3602
+,,Molecular Biology,3603
+,,Ecology,3604
+,,Genetics,3605
+,,Microbiology,3606
+,,Pharmacology,3607
+,,Physiology,3608
+,,Zoology,3609
+,,Epidemiology,3610
+,,Neuroscience,3611
+,,Miscellaneous Biology,3699
+,Physical and Related Science,Physical Sciences,5000
+,,Astronomy And Astrophysics,5001
+,,Atmospheric Sciences And Meteorology,5002
+,,Chemistry,5003
+,,Geology And Earth Science,5004
+,,Geosciences,5005
+,,Oceanography,5006
+,,Physics,5007
+,,Materials Science,5008
+,,Multi-Disciplinary Or General Science,5098
+,,Miscellaneous Physical Sciences,5099
+,Psychology,Psychology,5200
+,,Educational Psychology,5201
+,,Clinical Psychology,5202
+,,Counseling Psychology,5203
+,,Experimental Psychology,5204
+,,Industrial And Organizational Psychology,5205
+,,Social Psychology,5206
+,,Miscellaneous Psychology,5299
+,Social Science,Area Ethnic And Civilization Studies,1501
+,,General Social Sciences,5500
+,,Economics,5501
+,,Anthropology And Archeology,5502
+,,Criminology,5503
+,,Geography,5504
+,,International Relations,5505
+,,Political Science And Government,5506
+,,Sociology,5507
+,,Miscellaneous Social Sciences,5599
+,,History And Philosophy Of Science And Technology,6401
+,Engineering,General Engineering,2400
+,,Aerospace Engineering,2401
+,,Biological Engineering,2402
+,,Architectural Engineering,2403
+,,Biomedical Engineering,2404
+,,Chemical Engineering,2405
+,,Civil Engineering,2406
+,,Computer Engineering,2407
+,,Electrical Engineering,2408
+,,Engineering Mechanics Physics And Science,2409
+,,Environmental Engineering,2410
+,,Geological And Geophysical Engineering,2411
+,,Industrial And Manufacturing Engineering,2412
+,,Materials Engineering And Materials Science,2413
+,,Mechanical Engineering,2414
+,,Metallurgical Engineering,2415
+,,Mining And Mineral Engineering,2416
+,,Naval Architecture And Marine Engineering,2417
+,,Nuclear Engineering,2418
+,,Petroleum Engineering,2419
+,,Operations Research,2420
+,,Energy Systems Engineering,2421
+,,Miscellaneous Engineering,2499
+,Multidisciplinary Studies,Multi-Disciplinary Studies,4000
+,,Intercultural And International Studies,4001
+,,Nutrition Sciences,4002
+,,Accounting And Computer Science,4004
+,,Mathematics And Computer Science,4005
+,,Cognitive Science And Biopsychology,4006
+,,Interdisciplinary Social Sciences,4007
+Science and Engineering Related Fields,Science and Engineering Related Fields,Architecture,1401
+,,Computer Programming,2101
+,,Data Processing,2104
+,,Computer Teacher Education,2302
+,,Mathematics Teacher Education,2305
+,,Science Teacher Education,2308
+,,Engineering Technologies,2500
+,,Engineering And Industrial Management,2501
+,,Electrical Engineering Technology,2502
+,,Industrial Production Technologies,2503
+,,Mechanical Engineering Related Technologies,2504
+,,Energy Systems Technologies/Technicians,2505
+,,Miscellaneous Engineering Technologies,2599
+,,Applied Biotechnology,5101
+,,Nuclear And Industrial Radiology Technologies,5102
+,,General Medical And Health Services,6100
+,,Communication Disorders Sciences And Services,6102
+,,Health And Medical Administrative Services,6103
+,,Medical Assisting Services,6104
+,,Medical Technologies Technicians,6105
+,,Health And Medical Preparatory Programs,6106
+,,Nursing,6107
+,,Pharmacy Pharmaceutical Sciences And Administration,6108
+,,Treatment Therapy Professions,6109
+,,Community And Public Health,6110
+,,Energy And Biologically Based Therapies,6111
+,,"Health Professions, Education, Ethics, And Humanities",6112
+,,Miscellaneous Health Medical Professions,6199
+Business,Business,Court Reporting,3201
+,,Medical Office Assistance And Administration,6101
+,,General Business,6200
+,,Accounting,6201
+,,Actuarial Science,6202
+,,Business Management And Administration,6203
+,,Operations Logistics And E-Commerce,6204
+,,Business Economics,6205
+,,Marketing,6206
+,,Finance,6207
+,,Marketing Research,6208
+,,Human Resources And Personnel Management,6209
+,,International Business,6210
+,,Hospitality Management,6211
+,,Management Information Systems And Statistics,6212
+,,Miscellaneous Business,6299
+Education,Education,General Education,2300
+,,Educational Administration And Supervision,2301
+,,School Student Counseling,2303
+,,Elementary Education,2304
+,,Physical And Health Education Teaching,2306
+,,Early Childhood Education,2307
+,,Secondary Teacher Education,2309
+,,Special Needs Education,2310
+,,Social Science Or History Teacher Education,2311
+,,Teacher Education: Multiple Levels,2312
+,,Language And Drama Education,2313
+,,Art And Music Education,2314
+,,Miscellaneous Education,2399
+"Arts, Humanities, and Other",Literature and Languages,Linguistics And Comparative Language And Literature,2601
+,,French German Latin And Other Common Foreign Language Studies,2602
+,,Other Foreign Languages,2603
+,,English Language And Literature,3301
+,,Composition And Rhetoric,3302
+,Liberal Arts and History,Liberal Arts,3401
+,,Humanities,3402
+,,Philosophy And Religious Studies,4801
+,,Theology And Religious Vocations,4901
+,,History,6402
+,,United States History,6403
+,Visual and Performing Arts,Fine Arts,6000
+,,Drama And Theater Arts,6001
+,,Music,6002
+,,Visual And Performing Arts,6003
+,,Commercial Art And Graphic Design,6004
+,,Film Video And Photographic Arts,6005
+,,Art History And Criticism,6006
+,,Studio Arts,6007
+,,Video Game Design And Development,6008
+,,Miscellaneous Fine Arts,6099
+,Communications,Communications,1901
+,,Journalism,1902
+,,Mass Media,1903
+,,Advertising And Public Relations,1904
+,,Communication Technologies,2001
+,Other,Cosmetology Services And Culinary Arts,2201
+,,Family And Consumer Sciences,2901
+,,Pre-Law And Legal Studies,3202
+,,Library Science,3501
+,,Military Technologies,3801
+,,Physical Fitness Parks Recreation And Leisure,4101
+,,Criminal Justice And Fire Protection,5301
+,,Public Administration,5401
+,,Public Policy,5402
+,,Human Services And Community Organization,5403
+,,Social Work,5404
+,,Construction Services,5601
+,,Electrical And Mechanic Repairs And Technologies,5701
+,,Precision Production,5801
+,,Transportation Sciences And Technologies,5901
